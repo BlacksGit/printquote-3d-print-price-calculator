@@ -47,7 +47,7 @@ class App(tk.Tk):
         self.tree.pack(fill='both', expand=True, pady=6)
         self.total = ttk.Label(main, text='', font=('Segoe UI', 11, 'bold'))
         self.total.pack(anchor='e')
-        ttk.Label(main, text='Reads filament weight and print time from OrcaSlicer, PrusaSlicer, Bambu Studio and Cura G-code.').pack(anchor='w')
+        ttk.Label(main, text='Reads filament weight and print time from slicer G-code comments (tested: OrcaSlicer).').pack(anchor='w')
         self.items = []
         self.protocol('WM_DELETE_WINDOW', self.close)
 

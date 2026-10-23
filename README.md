@@ -2,7 +2,7 @@
 
 Drop in sliced G-code and get a price per print from your real costs: filament, electricity, machine wear, labor, failed-print allowance, markup and marketplace fees. Batch many files, set quantities, export CSV or a printable quote.
 
-Reads filament weight and print time from OrcaSlicer, PrusaSlicer, Bambu Studio and Cura G-code comments.
+Reads filament weight and print time from G-code comments. Tested with real OrcaSlicer output; PrusaSlicer, Bambu Studio and Cura use similar comments but are untested.
 
 ## Run from source (free)
 
