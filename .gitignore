@@ -1,0 +1,5 @@
+pack/
+b.cmd
+*.exe
+*.zip
+__pycache__/
