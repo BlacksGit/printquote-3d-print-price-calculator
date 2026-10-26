@@ -12,7 +12,7 @@ Python 3.8+ with tkinter, no other dependencies:
 
 ## Windows exe
 
-Prefer a double-click program? Get the ready-built Windows exe for $9: https://spectre5.gumroad.com/l/PLACEHOLDER
+Want quotes, a job log and spool tracking in one spreadsheet? The 3D Print Shop Tracker (Excel + Google Sheets, $9): https://payhip.com/b/Dy4Pq
 
 ## How the price is built
 
