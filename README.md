@@ -14,6 +14,8 @@ Python 3.8+ with tkinter, no other dependencies:
 
 Want quotes, a job log and spool tracking in one spreadsheet? The 3D Print Shop Tracker (Excel + Google Sheets, $9): https://payhip.com/b/Dy4Pq
 
+No install at all? The [browser version](https://blacksgit.github.io/print-price/) reads the same slicer comments from a dropped G-code file.
+
 ## How the price is built
 
 cost = (filament + power + wear + labor) x (1 + failure allowance)
